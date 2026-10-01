@@ -15,5 +15,5 @@ Welcome to my academic portfolio for CEP146!
 - [ ] Collaborate on group projects
 
 ## Projects
-*This section will be updated as I complete assignments*# my-course-portfolio
+*This section will be updated as I complete assignments*
 
